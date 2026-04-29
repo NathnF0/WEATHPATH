@@ -1,0 +1,12 @@
+# Segurança: Nunca suba suas chaves de API
+.env
+
+# Dados: Não suba o histórico de consultas 
+*.csv
+
+# Python: Arquivos temporários que o Python cria sozinho
+__pycache__/
+*.pyc
+
+# VS Code: Configurações locais do seu editor
+.vscode/
