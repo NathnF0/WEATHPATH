@@ -74,7 +74,7 @@ python main.py
       <img src="https://github.com/NathnF0.png" width="120" style="border-radius: 50%; border: 3px solid #00FFFF;" alt="NathnF">
     </td>
     <td>
-      <h3>NathnF (Galaxy)</h3>
+      <h3>NathnF </h3>
       <p><em>Full-Stack Architect & Logic Specialist</em></p>
       <p>Desenvolvedor focado em sistemas de alta performance, automação e inteligência de dados. Idealizador do ecossistema <strong>WEATHPATH</strong>, unindo ciência meteorológica e eficiência logística em uma única interface industrial.</p>
       <div align="left">
