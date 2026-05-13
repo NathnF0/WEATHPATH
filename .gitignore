@@ -1,3 +1,7 @@
+# Ambiente Virtual (Evita os 12 mil arquivos de bibliotecas)
+.venv/
+venv/
+
 # Segurança: Nunca suba suas chaves de API
 .env
 
